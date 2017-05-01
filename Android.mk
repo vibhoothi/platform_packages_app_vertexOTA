@@ -22,6 +22,9 @@ endif
 CFLAGS = -Wno-sign-compare
 CPPFLAGS = -Wno-sign-compare
 
+# Include res dir from chips
+chips_dir := ../../../frameworks/opt/chips/res
+
 # Cardview Dir
 cardview_dir := ../../../frameworks/support/v7/cardview
 
@@ -35,7 +38,7 @@ LOCAL_AAPT_FLAGS := \
 	--auto-add-overlay \
 	--extra-packages android.support.v7.cardview
 
-LOCAL_PACKAGE_NAME := NitrogenOTA
+LOCAL_PACKAGE_NAME := AEXOTA
 
 LOCAL_MODULE_TAGS := optional
 

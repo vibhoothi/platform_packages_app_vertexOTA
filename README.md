@@ -7,7 +7,7 @@ If you want to, you can host the ROM zip and ota.xml manifest yourself! You can 
 - Build this app (include to device.mk)
 ``` MAKEFILE
 PRODUCT_PACKAGES += \
-    NitrogenOTA \
+    AEXOTA \
     libbypass
 ```
 #### Create an ota.xml
@@ -122,7 +122,7 @@ At the bottom of your build.prop, add the following values editing them to suit 
 
 ``` MAKEFILE
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.ota.romname=Nitrogen-OS \
+    ro.ota.romname=AospExtended-ROM \
     ro.ota.version=$(shell date +"%Y%m%d") \
     ro.ota.manifest=http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/ota.xml
 ```

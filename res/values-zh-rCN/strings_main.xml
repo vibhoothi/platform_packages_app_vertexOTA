@@ -43,7 +43,7 @@
 
     <!-- Dialogs -->
     <string name="main_not_compatible_title">不兼容</string>
-    <string name="main_not_compatible_message">此ROM与Nitrogen OTA不兼容，请联系你的ROM开发者，此应用程序需要一个开发者特殊支持的定制ROM，这不是故障请不要为此差评。</string>
+    <string name="main_not_compatible_message">此ROM与AEXOTA不兼容，请联系你的ROM开发者，此应用程序需要一个开发者特殊支持的定制ROM，这不是故障请不要为此差评。</string>
     <string name="main_not_connected_title">未连接</string>
     <string name="main_not_connected_message">您没有连接任何网络，请启用移动数据或者WIFI再重试。</string>
     <string name="main_playstore_title">比特币</string>

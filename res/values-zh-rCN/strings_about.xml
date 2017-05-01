@@ -17,7 +17,7 @@
 <resources>
 
     <string name="about_about_title">关于</string>
-    <string name="about_preferences_summary">Nitrogen OTA信息，捐赠和信用</string>
+    <string name="about_preferences_summary">AEXOTA信息，捐赠和信用</string>
     <string name="about_about_summary">这个程序是出于我对那些想要工作但无法工作的应用程序而沮丧。我为我的ROM开发它，但我很快意识到其他开发人员可能会发现这也有用。 因此，我将其概括并编写了一些实现指南供其他开发人员使用。</string>
     <string name="about_credits_title">信用</string>
     <string name="about_credits_summary">信用概要</string>
