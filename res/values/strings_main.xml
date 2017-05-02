@@ -21,8 +21,8 @@
     <string name="main_no_update_available">No Update Available</string>
     <string name="main_update_filename">Filename</string>
     <string name="main_update_progress">Download Progress</string>
-    <string name="main_website">Website</string>
-    <string name="main_website_summary">Visit ROM website</string>
+    <string name="main_website">Forum</string>
+    <string name="main_website_summary">Visit XDA thread</string>
     <string name="main_donate">Donate</string>
     <string name="main_donate_summary">Donate to the ROM developer</string>
     <string name="main_tap_to_download">Tap to download</string>
@@ -39,7 +39,7 @@
     <string name="main_rom_codename">ROM codename:</string>
     <string name="main_rom_build_date">ROM date:</string>
     <string name="main_android_verison">Android version:</string>
-    <string name="main_rom_developer">Developer(s):</string>
+    <string name="main_rom_developer">Maintainer(s):</string>
 
     <!-- Dialogs -->
     <string name="main_not_compatible_title">Not compatible</string>
