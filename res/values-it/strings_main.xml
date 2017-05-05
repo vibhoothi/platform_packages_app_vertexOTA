@@ -18,20 +18,20 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string name="main_update_available">Aggiornamento disponibile!</string>
-    <string name="main_update_finished">Scaricamento completato</string>
+    <string name="main_update_finished">Download completato</string>
     <string name="main_no_update_available">Non sono disponibili aggiornamenti</string>
     <string name="main_update_filename">Nome del file</string>
-    <string name="main_update_progress">Avanzamento dello scaricamento</string>
+    <string name="main_update_progress">Avanzamento del download</string>
     <string name="main_website">Sito web</string>
     <string name="main_website_summary">Visita il sito web della ROM</string>
     <string name="main_donate">Donazione</string>
     <string name="main_donate_summary">Dona allo sviluppatore della ROM</string>
     <string name="main_tap_to_download">Tocca per scaricare</string>
     <string name="main_download_completed_details">Tocca per i dettagli</string>
-    <string name="main_tap_to_view_progress">Tocca per vedere l\'avanzamento</string>
+    <string name="main_tap_to_view_progress">Tocca per visualizzare l\'avanzamento</string>
     <string name="main_last_checked">Ultimo controllo effettuato il</string>
-    <string name="main_addon">Addons</string>
-    <string name="main_addon_summary">Sfoglia e scarica file addizionali per questa ROM</string>
+    <string name="main_addon">Aggiungi</string>
+    <string name="main_addon_summary">Sfoglia e scarica file aggiuntivi per questa ROM</string>
 
     <!-- ROM Information -->
     <string name="main_rom_information">Informazioni ROM</string>
@@ -40,7 +40,7 @@
     <string name="main_rom_codename">Nome in codice ROM:</string>
     <string name="main_rom_build_date">Data ROM:</string>
     <string name="main_android_verison">Versione Android:</string>
-    <string name="main_rom_developer">Sviluppatore(i):</string>
+    <string name="main_rom_developer">Sviluppatore(s):</string>
 
     <!-- Dialogs -->
     <string name="main_not_compatible_title">Non compatibile</string>
@@ -52,7 +52,7 @@
 
     <!-- Content Descriptions -->
     <string name="main_button_icon">Icona del pulsante</string>
-    <string name="main_dev_website_icon">Icona sito web sviluppatore</string>
+    <string name="main_dev_website_icon">Icona del sito web dello sviluppatore</string>
     <string name="main_actionbar_button">Pulsanti Actionbar</string>
 
     <!-- Toast -->
