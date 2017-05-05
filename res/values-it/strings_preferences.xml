@@ -25,9 +25,9 @@
     <string name="twrp_ors_delete_after_summary">Lo script open recovery deve cancellare il file dopo l\'installazione?</string>
     <string name="twrp_ors_install_prefs">Preferenze per l\'installazione</string>
     <string name="twrp_ors_install_prefs_summary">Seleziona alcune preferenze per l\'installazione quando si utilizza lo script ORS</string>
-    <string name="twrp_ors_wipe_data">Wipe Data</string>
-    <string name="twrp_ors_wipe_cache">Wipe Cache</string>
-    <string name="twrp_ors_wipe_dalvik">Wipe Dalvik</string>
+    <string name="twrp_ors_wipe_data">Pulisci Data</string>
+    <string name="twrp_ors_wipe_cache">Pulisci Cache</string>
+    <string name="twrp_ors_wipe_dalvik">Pulisci Dalvik</string>
     <string name="notifications_title">Notifiche</string>
     <string name="background_service_summary">Controlla automaticamente per eventuali aggiornamenti e visualizza una notifica se questa è disponibile</string>
     <string name="background_frequency">Tempistica di controllo</string>
@@ -37,7 +37,7 @@
     <string name="background_3hours">3 ore</string>
     <string name="background_6hours">6 ore</string>
     <string name="background_12hours">12 ore</string>
-    <string name="background_24hours">Giornalmente</string>
+    <string name="background_24hours">Giornaliero</string>
     <string name="background_2days">2 giorni</string>
     <string name="background_3days">3 giorni</string>
     <string name="background_7days">Settimanalmente</string>
@@ -56,5 +56,6 @@
     <string name="notification_ignore_release_title">Ignora rilascio</string>
     <string name="notification_ignoring_release">Versione attualmente ignorata: </string>
     <string name="notification_not_ignoring_release">Non stai ignorando nessun rilascio</string>
-
+    <string name="storage">Memoria</string>
+    <string name="storage_location">Posizione memoria</string>
 </resources>
