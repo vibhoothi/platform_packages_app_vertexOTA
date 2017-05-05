@@ -27,7 +27,7 @@
     <string name="filename_separator">-</string>
     <string name="download">Scarica</string>
     <string name="install">Installa</string>
-    <string name="downloading">Scaricamento&#8230;</string>
+    <string name="downloading">Download in corso&#8230;</string>
     <string name="rebooting">Riavvio&#8230;</string>
     <string name="information">Informazione</string>
     <string name="update_available">Disponibile aggiornamento ROM</string>
@@ -36,5 +36,6 @@
     <string name="finished">Finito</string>
     <string name="settings">Impostazioni</string>
     <string name="done">Fatto</string>
+    <string name="delete_confirm">Sei sicuro di che voler eliminare questo file?</string>
 
 </resources>
