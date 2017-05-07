@@ -19,14 +19,14 @@
 
     <string name="available_update_name">Aggiorna qui nome ed informazioni sul file</string>
     <string name="available_progress_counter">0MB / 0MB</string>
-    <string name="available_changelog_title">Changelog</string>
-    <string name="available_changelog_content">Il changelog va inserito qui</string>
+    <string name="available_changelog_title">Modifiche</string>
+    <string name="available_changelog_content">Le tue modifiche vanno inserite qui</string>
     <string name="available_check_md5">Controlla MD5</string>
     <string name="available_ready_to_install">Pronto per l\'installazione</string>
     <string name="available_md5_ok">Verifica MD5 riuscita</string>
     <string name="available_md5_failed">Verifica MD5 fallita</string>
     <string name="available_checking_md5">Controllo MD5 in corso&#8230;</string>
-    <string name="available_downloading">Scaricamento&#8230;</string>
+    <string name="available_downloading">Download in corso&#8230;</string>
     <string name="are_you_sure">Sei sicuro?</string>
     <string name="available_delete_confirm_message">Sei sicuro di voler cancellare il file scaricato?</string>
     <string name="available_reboot_confirm">Vuoi riavviare ora?</string>

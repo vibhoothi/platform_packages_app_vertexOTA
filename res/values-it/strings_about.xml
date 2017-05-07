@@ -17,7 +17,8 @@
 -->
 <resources>
 
-    <string name="about_about_title">Info su</string>
+    <string name="about_about_title">Informazioni</string>
+    <string name="about_preferences_summary">Informazioni su AEXOTA, donazioni e crediti</string>
     <string name="about_about_summary">Questa applicazione è nata dalla mia frustrazione nell\'utilizzare altre applicazioni che non funzionavano come avrei voluto. Inizialmente l\'ho sviluppata per la mia ROM ma ho subito realizzato che sarebbe potuta essere utile anche ad altri utenti. Per finire, l\'ho generalizzata e ne ho scritto le linee guida per l\'implementazione da parte di altri sviluppatori.</string>
     <string name="about_credits_title">Ringraziamenti</string>
     <string name="about_credits_summary">Sommario ringraziamenti</string>
@@ -26,8 +27,8 @@
     <string name="about_donate_button_summary">Offrimi una birra</string>
     <string name="about_version_title">Versione</string>
     <string name="about_app_version">Versione applicazione:</string>
-    <string name="changelog">Changelog</string>
-    <string name="changelog_summary">Visualizza il changelog dell\'applicazione</string>
-    <string name="changelog_error">Errore nel leggere il changelog</string>
-
+    <string name="changelog">Modifiche</string>
+    <string name="changelog_summary">Visualizza le modifiche dell\'applicazione</string>
+    <string name="changelog_error">Errore nel leggere le modifiche</string>
+	
 </resources>
