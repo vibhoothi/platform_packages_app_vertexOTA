@@ -7,7 +7,7 @@ If you want to, you can host the ROM zip and ota.xml manifest yourself! You can 
 - Build this app (include to device.mk)
 ``` MAKEFILE
 PRODUCT_PACKAGES += \
-    AEXOTA \
+    vertexOTA \
     libbypass
 ```
 #### Create an ota.xml
@@ -122,9 +122,9 @@ At the bottom of your build.prop, add the following values editing them to suit 
 
 ``` MAKEFILE
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.ota.romname=AospExtended-ROM \
+    ro.ota.romname=VertexOS-Devicename \
     ro.ota.version=$(shell date +"%Y%m%d") \
-    ro.ota.manifest=http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/ota.xml
+    ro.ota.manifest=Manifest URL here
 ```
   
 Please pay CLOSE attention to the ro.ota.version entry. This is not your particular ROM version (v6.5 or v1.2.5, for example) this is a value for the OTA app to determine if an update is available. Your NEXT version should be numerically higher than this. You may use value you like, so long as it is an integer and successive updates are larger.
