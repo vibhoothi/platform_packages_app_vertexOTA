@@ -5,7 +5,7 @@ import android.content.Context;
 import android.net.Uri;
 import android.util.Log;
 
-import com.vertex.ota.vertexota;
+import com.vertex.ota.vertexOTA;
 import com.vertex.ota.utils.Constants;
 import com.vertex.ota.utils.Preferences;
 
@@ -35,7 +35,7 @@ public class DownloadAddon implements Constants {
 		
 		DownloadManager downloadManager = (DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE);
 		long mDownloadID = downloadManager.enqueue(request);
-		vertexota.putAddonDownload(index, mDownloadID);
+		vertexOTA.putAddonDownload(index, mDownloadID);
 		new DownloadAddonProgress(context, downloadManager, index).execute(mDownloadID);
 		if (DEBUGGING) {
 			Log.d(TAG, "Starting download with manager ID " + mDownloadID + " and item id of " + id);
@@ -43,7 +43,7 @@ public class DownloadAddon implements Constants {
 	}
 	
 	public void cancelDownload(Context context, int index) {
-		long mDownloadID = vertexota.getAddonDownload(index);
+		long mDownloadID = vertexOTA.getAddonDownload(index);
 		if (DEBUGGING) {
 			Log.d(TAG, "Stopping download with manager ID " + mDownloadID + " and item index of " + index);
 		}
