@@ -76,7 +76,7 @@
             android:label="@string/preferences_name" />
 
         <receiver
-            android:name="org.vertex.ota.receivers.AppReceiver"
+            android:name="com.vertex.ota.receivers.AppReceiver"
             android:enabled="true" >
             <intent-filter>
                 <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
