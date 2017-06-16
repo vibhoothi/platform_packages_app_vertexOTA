@@ -4,16 +4,16 @@ If you want to, you can host the ROM zip and ota.xml manifest yourself! You can 
 
 #### Include this in your ROM:
 
-- Build this app (include to device.mk)
+-If youw want to make this package to your ROM you should add this lines to your roms vendor
+and if you are trying to build vertex for your device for that skip this part it is already done 
 ``` MAKEFILE
 PRODUCT_PACKAGES += \
     vertexOTA \
-    libbypass
 ```
 #### Create an ota.xml
 
 The OTA app needs an XML document stored online somewhere to periodically check and compare OTA version values to see if there is an update. You must create this and store it somewhere you can have a direct link access to it. You can use a personal website, or somewhere like dropbox's public folder or private shares.
-
+you can create a repo for storing the xml and periodically update it the general format is given below please refer to this and our vertexota repo for more info how it is done
 The XML should look like this:-
 
 ``` XML
@@ -118,7 +118,7 @@ Taking care to provide a direct link to your XML in the AddonsUrl tag, and provi
 
 #### Add to build properties
 
-At the bottom of your build.prop, add the following values editing them to suit your needs, for example (geehrc):
+At the bottom of your device.mk, add the following values editing them to suit your needs, for example (geehrc):
 
 ``` MAKEFILE
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -126,7 +126,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.ota.version=$(shell date +"%Y%m%d") \
     ro.ota.manifest=Manifest URL here
 ```
-  
+  Please makesure that ROMNAME matches the name in Manifets.
 Please pay CLOSE attention to the ro.ota.version entry. This is not your particular ROM version (v6.5 or v1.2.5, for example) this is a value for the OTA app to determine if an update is available. Your NEXT version should be numerically higher than this. You may use value you like, so long as it is an integer and successive updates are larger.
 
 This example is using Universal Standard time, which is YYYYMMDD. It is a good version scheme to use for the OTA app if you do not plan on release more than one version per ROM per day
