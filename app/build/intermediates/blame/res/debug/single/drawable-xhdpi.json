@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_focused_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notif.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_notif.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_about_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_about_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_changelog_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_changelog_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_check_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_check_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/pro_ribbon_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/pro_ribbon_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_download_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_download_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_pressed_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_bottom_solid_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_bottom_solid_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_stacked_solid_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_stacked_solid_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_download.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_action_download.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_pressed_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_web_site_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_web_site_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_addon_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_addon_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_close.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_action_close.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_web_site_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_web_site_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_solid_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_solid_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_download_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_download_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_bottom_solid_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_bottom_solid_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_longpressed_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_longpressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_stacked_solid_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_stacked_solid_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_pressed_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_donate_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_donate_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_settings_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_selector_disabled_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/pro_ribbon_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/pro_ribbon_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_longpressed_holo_dark.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_longpressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_about_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_about_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_donate_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_donate_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_focused_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/list_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_changelog_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_changelog_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_addon_dark.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_addon_dark.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_light.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ic_settings_light.png"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_solid_holo_light.9.png",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-xhdpi/ab_solid_holo_light.9.png"
+    }
+]

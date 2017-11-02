@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/drawable_download.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/drawable_download.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/ripple_selector_dark.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/ripple_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/material_background_dark.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/card_material_background_light.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/card_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/drawable_check.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/drawable_check.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/drawable_donate.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/drawable_donate.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/card_material_background_dark.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/card_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/drawable_addon.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/drawable_addon.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/ripple_selector_light.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/ripple_selector_light.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/drawable_website.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/drawable_website.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/drawable-v21/material_background_light.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/drawable-v21/material_background_light.xml"
+    }
+]

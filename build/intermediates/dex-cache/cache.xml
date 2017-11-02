@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/7af5be435b86901a465481449c5149b9a975db0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_cd90f9c3569e0879834ceff1a53d876402f0637c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/240b3722aa3afcda6e86bd7b56c097d11b2c43a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_58b62c50c8aac7f09b7ea7be35f9c14da5860820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/9417cb537860ccb1bb448bf2922113a342c43f76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_1cf54e0881ba5c1c51e57cdd258fcf4b850467a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/de2bd7934897596441bd31479995026491d0b353/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_3776dad1d59e414deb9ef93fa181a5aa9d06949a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/7f761bcd1258f06ea411645c49569f1f7bfc37f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80f2c9f5ef131f0b0746aa7be1e98d4f67d0dd1b">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_ed4694d8a836193134865b7cc92569df9af9bde3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/5a7541eb2a3f2bad72ee1847a772783f8c66e30e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_4837c272501521f033dfbbc8d4c3dd089c7d557a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fa82f3c06edb3a216ab0d8be4bd9863d67abd17">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1d69c67efa4f9c238b83c07b02fc1d8ee8d425eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/f9279388fef9af380871450a3bc6c662e4f256ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_dab1a32641559b024a15429775bac63afcbdff5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/libs/RootTools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/transforms/dex/debug/folders/1000/2/RootTools_ec3c568774a041f5d60afd9714bf1f692f45989c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/4c9e0563aa2464ec025af4e6c110a2ab1d26211f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_1b676c18502af555696e2b773176c8d087d46f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_1d019daf31773a89b20a4d91d0f5b74245fad293.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c191cb9f349f1db5f3e3a176b4c48a1b820b75d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/.android/build-cache/49f26d922550feb8f1548ae4981e177587542e1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/classes_87def73df7c838c04639bd6971416965928478f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/libs/RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/pre-dexed/debug/RootTools_ec3c568774a041f5d60afd9714bf1f692f45989c.jar" />
+    </item>
+
+</items>

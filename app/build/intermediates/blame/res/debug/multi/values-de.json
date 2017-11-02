@@ -1,0 +1,1831 @@
+[
+    {
+        "outputFile": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 340,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 340,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 50,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 50,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 62,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 62,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 56,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 56,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 82,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1382,
+                        "endColumn": 82,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 162,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 162,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 54,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_about.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 54,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 62,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 62,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 95,
+                    "endOffset": 1022
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 95,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1027,
+                    "endColumn": 64,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 64,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 58,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 58,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endColumn": 68,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endColumn": 74,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 117,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 117,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1338,
+                    "endColumn": 71,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 77,
+                        "endOffset": 1398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 67,
+                    "endOffset": 1473
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 67,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1478,
+                    "endColumn": 60,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 60,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 64,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 64,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 78,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 78,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 83,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 83,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 185,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 185,
+                        "endOffset": 2046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 81,
+                    "endOffset": 2030
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1783,
+                        "endColumn": 81,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2035,
+                    "endColumn": 104,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 104,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 114,
+                    "endOffset": 2250
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 114,
+                        "endOffset": 1778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2255,
+                    "endColumn": 222,
+                    "endOffset": 2473
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 222,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2478,
+                    "endColumn": 75,
+                    "endOffset": 2549
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_available.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2051,
+                        "endColumn": 75,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2554,
+                    "endColumn": 39,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 39,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 57,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2219,
+                        "endColumn": 57,
+                        "endOffset": 2272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 54,
+                    "endOffset": 2702
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endColumn": 54,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endColumn": 51,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2332,
+                        "endColumn": 51,
+                        "endOffset": 2379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 55,
+                    "endOffset": 2810
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2051,
+                        "endColumn": 55,
+                        "endOffset": 2102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2815,
+                    "endColumn": 56,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endColumn": 56,
+                        "endOffset": 1989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endColumn": 51,
+                    "endOffset": 2919
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2384,
+                        "endColumn": 51,
+                        "endOffset": 2431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2924,
+                    "endColumn": 55,
+                    "endOffset": 2975
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2107,
+                        "endColumn": 55,
+                        "endOffset": 2158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2980,
+                    "endColumn": 56,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1994,
+                        "endColumn": 56,
+                        "endOffset": 2046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 55,
+                    "endOffset": 3088
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2163,
+                        "endColumn": 55,
+                        "endOffset": 2214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3093,
+                    "endColumn": 56,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2436,
+                        "endColumn": 56,
+                        "endOffset": 2488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 75,
+                    "endOffset": 3221
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 75,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3226,
+                    "endColumn": 123,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endColumn": 123,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 44,
+                    "endOffset": 3390
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 44,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3395,
+                    "endColumn": 44,
+                    "endOffset": 3435
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 44,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3440,
+                    "endColumn": 50,
+                    "endOffset": 3486
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 50,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3491,
+                    "endColumn": 61,
+                    "endOffset": 3548
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 67,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3553,
+                    "endColumn": 48,
+                    "endOffset": 3597
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 48,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3602,
+                    "endColumn": 38,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 38,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endColumn": 53,
+                    "endOffset": 3690
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 53,
+                        "endOffset": 1236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3695,
+                    "endColumn": 48,
+                    "endOffset": 3739
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 48,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3744,
+                    "endColumn": 49,
+                    "endOffset": 3789
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 55,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3794,
+                    "endColumn": 75,
+                    "endOffset": 3865
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2334,
+                        "endColumn": 75,
+                        "endOffset": 2405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3870,
+                    "endColumn": 65,
+                    "endOffset": 3931
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 65,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3936,
+                    "endColumn": 65,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2189,
+                        "endColumn": 65,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 78,
+                    "endOffset": 4076
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endColumn": 78,
+                        "endOffset": 2329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4081,
+                    "endColumn": 47,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 47,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 76,
+                    "endOffset": 4201
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 76,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4206,
+                    "endColumn": 112,
+                    "endOffset": 4314
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endColumn": 112,
+                        "endOffset": 1310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4319,
+                    "endColumn": 67,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1315,
+                        "endColumn": 67,
+                        "endOffset": 1378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endColumn": 83,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 83,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 158,
+                    "endOffset": 4625
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 158,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4630,
+                    "endColumn": 70,
+                    "endOffset": 4696
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1682,
+                        "endColumn": 70,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4701,
+                    "endColumn": 172,
+                    "endOffset": 4869
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endColumn": 172,
+                        "endOffset": 2149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4874,
+                    "endColumn": 68,
+                    "endOffset": 4938
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1912,
+                        "endColumn": 68,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4943,
+                    "endColumn": 54,
+                    "endOffset": 4993
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 54,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4998,
+                    "endColumn": 58,
+                    "endOffset": 5052
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 58,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5057,
+                    "endColumn": 66,
+                    "endOffset": 5119
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 66,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5124,
+                    "endColumn": 80,
+                    "endOffset": 5200
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 80,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5205,
+                    "endColumn": 75,
+                    "endOffset": 5276
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 75,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5281,
+                    "endColumn": 58,
+                    "endOffset": 5335
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 58,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5340,
+                    "endColumn": 75,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 75,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endColumn": 48,
+                    "endOffset": 5460
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_main.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 48,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5465,
+                    "endColumn": 42,
+                    "endOffset": 5503
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_menu.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 42,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5508,
+                    "endColumn": 55,
+                    "endOffset": 5559
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_menu.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 55,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5564,
+                    "endColumn": 65,
+                    "endOffset": 5625
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2718,
+                        "endColumn": 65,
+                        "endOffset": 2779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5630,
+                    "endColumn": 56,
+                    "endOffset": 5682
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2539,
+                        "endColumn": 56,
+                        "endOffset": 2591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5687,
+                    "endColumn": 66,
+                    "endOffset": 5749
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2596,
+                        "endColumn": 66,
+                        "endOffset": 2658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5754,
+                    "endColumn": 51,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2991,
+                        "endColumn": 51,
+                        "endOffset": 3038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 66,
+                    "endOffset": 5868
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 66,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5873,
+                    "endColumn": 59,
+                    "endOffset": 5928
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3043,
+                        "endColumn": 59,
+                        "endOffset": 3098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5933,
+                    "endColumn": 58,
+                    "endOffset": 5987
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 58,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5992,
+                    "endColumn": 57,
+                    "endOffset": 6045
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 63,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6050,
+                    "endColumn": 49,
+                    "endOffset": 6095
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3103,
+                        "endColumn": 49,
+                        "endOffset": 3148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6100,
+                    "endColumn": 39,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2784,
+                        "endColumn": 39,
+                        "endOffset": 2819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 45,
+                    "endOffset": 6181
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2824,
+                        "endColumn": 45,
+                        "endOffset": 2865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6186,
+                    "endColumn": 44,
+                    "endOffset": 6226
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2870,
+                        "endColumn": 44,
+                        "endOffset": 2910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6231,
+                    "endColumn": 75,
+                    "endOffset": 6302
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2915,
+                        "endColumn": 75,
+                        "endOffset": 2986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6307,
+                    "endColumn": 45,
+                    "endOffset": 6348
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2493,
+                        "endColumn": 45,
+                        "endOffset": 2534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6353,
+                    "endColumn": 77,
+                    "endOffset": 6426
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 77,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6431,
+                    "endColumn": 104,
+                    "endOffset": 6531
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 104,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6536,
+                    "endColumn": 195,
+                    "endOffset": 6727
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 195,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6732,
+                    "endColumn": 77,
+                    "endOffset": 6805
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 77,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6810,
+                    "endColumn": 102,
+                    "endOffset": 6908
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 102,
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6913,
+                    "endColumn": 119,
+                    "endOffset": 7028
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 119,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7033,
+                    "endColumn": 71,
+                    "endOffset": 7100
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 71,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7105,
+                    "endColumn": 64,
+                    "endOffset": 7165
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endColumn": 64,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7170,
+                    "endColumn": 66,
+                    "endOffset": 7232
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 66,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7237,
+                    "endColumn": 74,
+                    "endOffset": 7307
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endColumn": 74,
+                        "endOffset": 1533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7312,
+                    "endColumn": 73,
+                    "endOffset": 7381
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1241,
+                        "endColumn": 73,
+                        "endOffset": 1310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7386,
+                    "endColumn": 54,
+                    "endOffset": 7436
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/values-de/strings_preferences.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2663,
+                        "endColumn": 54,
+                        "endOffset": 2713
+                    }
+                }
+            }
+        ]
+    }
+]

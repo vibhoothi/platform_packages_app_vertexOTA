@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_addon_delete_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_addon_delete_button.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_website.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_website.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_available.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_available.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_update.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_update.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/preference_no_pro.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/preference_no_pro.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_addons.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_addons.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_addon_download_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_addon_download_button.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_main.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_main.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/preference_pro.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/preference_pro.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/preference.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/preference.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_about.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_about.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_addons.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_addons.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_main_actionbar_top.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_main_actionbar_top.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_credits.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_credits.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_addons_list_item.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_addons_list_item.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_changelog.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_changelog.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_no_update.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_no_update.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_version.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_version.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_app_donate.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_app_donate.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_donate.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_donate.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/card_rom_info.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/card_rom_info.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_changelog_layout.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_changelog_layout.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout/ota_addon_cancel_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout/ota_addon_cancel_button.xml"
+    }
+]
