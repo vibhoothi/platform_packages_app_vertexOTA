@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_delete_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_addon_delete_button.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_download_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_addon_download_button.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_cancel_button.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_addon_cancel_button.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_available_menu.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_available_menu.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_main.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_main.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_about.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_about.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_addons.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_addons.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/preference.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/preference.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/layout-v21/ota_available.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/layout-v21/ota_available.xml"
+    }
+]

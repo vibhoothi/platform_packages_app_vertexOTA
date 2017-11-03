@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/menu/ota_menu_main.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/menu/ota_menu_main.xml"
+    },
+    {
+        "merged": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/res/merged/debug/menu/ota_menu_available.xml",
+        "source": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/src/main/res/menu/ota_menu_available.xml"
+    }
+]

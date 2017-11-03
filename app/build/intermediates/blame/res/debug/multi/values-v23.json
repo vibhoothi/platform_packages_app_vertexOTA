@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/vibhoothiiaanand/Desktop/op5port/vertexOTA3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/Users/vibhoothiiaanand/.android/build-cache/49f26d922550feb8f1548ae4981e177587542e1c/output/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    }
+]

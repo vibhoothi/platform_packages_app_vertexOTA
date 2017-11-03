@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.3'
+
+    defaultConfig {
+        applicationId "com.vertex.ota"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 19
+        versionName "1"
+
+        ndk {
+            moduleName "libbypass"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+        jni.srcDirs = [] //disable automatic ndk-build call
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+    compile files('libs/RootTools.jar')
+}
+
+dependencies {
+    compile 'com.android.support:cardview-v7:25.0.+'
+    compile 'com.android.support:recyclerview-v7:25.0.+'
+    compile 'com.github.Commit451:bypasses:1.1.0'}
+
